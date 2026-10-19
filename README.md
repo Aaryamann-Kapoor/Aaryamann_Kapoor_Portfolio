@@ -6,7 +6,7 @@ A clean, polished, multi-page personal portfolio website built with pure HTML5, 
 
 ## 🌟 Key Features
 
-- **Claude UI Design**: Warm off-white background (`#FAF9F5`), cream surfaces (`#F0EEE6`), subtle borders (`#E8E6DC`), readable warm-black text (`#141413`), and terracotta accent (`#D97757`).
+- **UI Design**: Warm off-white background (`#FAF9F5`), cream surfaces (`#F0EEE6`), subtle borders (`#E8E6DC`), readable warm-black text (`#141413`), and terracotta accent (`#D97757`).
 - **Typography**: Google Fonts *Newsreader* for headings and *Inter* for body text.
 - **Dark Mode**: Dark mode toggle keeping the warm charcoal feel (`#1D1B17`), remembered across sessions via `localStorage`.
 - **Zero Frameworks / No Build Step**: Pure HTML/CSS/JS ready to host for free on GitHub Pages.
